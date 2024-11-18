@@ -19,7 +19,7 @@ Clonez ce dépôt :
 
 bash:
 Copier le code
-git clone https://github.com/username/chess-game.git
+git clone [https://github.com/username/chess-game.git](https://github.com/manserman/Chess-game)
 Naviguez dans le répertoire du projet :
 
 bash:
